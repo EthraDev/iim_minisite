@@ -1,0 +1,9 @@
+.prout {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin: auto;
+    gap: 10px;
+    transform: rotate(5deg);
+    transform-origin: center;
+}
